@@ -42,4 +42,30 @@ The objective of this project is to analyze Vrinda Store's sales performance for
 - Top Performing States
 - Age Group vs Gender Analysis
 - Channel-wise Sales Contribution
-- Interactive Filters (
+- Interactive Filters (Slicers)
+  
+- ## Key Insights
+
+- Women customers contributed approximately **65%** of total purchases.
+- **Maharashtra, Karnataka, and Uttar Pradesh** were the top-performing states.
+- The **Adult Age Group (30–49 years)** generated the highest number of orders (~50%).
+- Most orders were placed through **Amazon, Flipkart, and Myntra**.
+- The majority of orders were successfully delivered, indicating strong operational performance.
+
+-## Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Dashboard Design
+- Data Cleaning & Analysis
+
+
+## Final Conclusion
+
+Based on the analysis, women customers aged 30–49 years from Maharashtra, Karnataka, and Uttar Pradesh represent the most valuable customer segment. By targeting this audience through major online marketplaces such as Amazon, Flipkart, and Myntra with personalized offers and promotions, Vrinda Store can significantly improve sales and customer retention.
+
+---
+
+
